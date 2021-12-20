@@ -1,3 +1,5 @@
+# Program created to evenly divide pizza slices for user
+
 num_pizza = input()
 num_people = input()
 num_slices = input()
