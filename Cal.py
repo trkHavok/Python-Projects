@@ -1,3 +1,6 @@
+#Program that calculates the sum of the user number inputs. 
+#Program was used to experiment with formatting in Python.
+
 first_num = int(input("Enter first number:"))
 second_num = int(input("Enter second number:"))
 third_num = int(input("Enter third number:"))
