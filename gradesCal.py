@@ -1,3 +1,5 @@
+# testing some new functions, sum(), max(), min(), and float()
+
 grades = [90,74,88,91]
 
 print('Your test scores are:', grades)
