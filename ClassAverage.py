@@ -1,3 +1,5 @@
+# displays grades for a class and displays the grades average
+
 scores = (10, 5, 8, 7, 9)
 quizzes = len(scores)             
 average = sum(scores) / quizzes
