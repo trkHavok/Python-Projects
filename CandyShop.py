@@ -1,3 +1,5 @@
+#Simple candy store program
+
 candy_prices = {'M&M': (1.99, 4),
                 'Butterfinger': (1.25, 3),
                 'Skittles': (2.99, 5),
